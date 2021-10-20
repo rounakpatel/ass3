@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\A3\\A3\\A3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\a3\\A3\\A3\\A3.csproj",
       "projectName": "A3",
-      "projectPath": "C:\\Users\\User\\source\\repos\\A3\\A3\\A3.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\a3\\A3\\A3\\A3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\A3\\A3\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\a3\\A3\\A3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
